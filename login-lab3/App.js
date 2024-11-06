@@ -12,9 +12,9 @@ const theme = {
   ...DefaultTheme,
   colors: {
     ...DefaultTheme.colors,
-    primary: '#5B42F3',
-    background: '#E5D5F8',
-    surface: '#5B42F3',
+    primary: '#FEF3E2',
+    background: '#FA812F',
+    surface: '#FA812F',
   },
 };
 
